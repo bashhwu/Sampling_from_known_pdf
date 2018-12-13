@@ -10,4 +10,4 @@ This can be performed using one of the folowing methods:
 
 The distribution addressed in this repo is the Exponentially modified Gaussian Distribution. 
 
-These methods suffer from high computational cose when it comes to generate samples for a large batch size. 
+These methods suffer from high computational cose when it comes to generating samples for a large batch size. 
